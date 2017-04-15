@@ -1,0 +1,5 @@
+- some tiles are heavier than others, and cause bigger kicks when they fall
+- as tile is lifted, surrounding tiles begin to "reveal" their shake by oscillating (always towards target tile), in an expanding ring outwards; player may abandon to reduce impact on tiles
+- try again with HINGE joints
+- reduce resolution and file size of textures
+- 
